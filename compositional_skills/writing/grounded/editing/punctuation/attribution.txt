@@ -1,5 +1,5 @@
-Title of work: https://en.wikipedia.org/wiki/Boston_Tea_Party
-Link to work: Boston Tea Party
+Title of work: Boston Tea Party
+Link to work: https://en.wikipedia.org/wiki/Boston_Tea_Party
 Revision: https://en.wikipedia.org/w/index.php?title=Boston_Tea_Party&oldid=1236026671
 License of the work: CC-BY-SA-4.0
 Creator names: Wikipedia Authors
